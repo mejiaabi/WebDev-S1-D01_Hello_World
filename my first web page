@@ -10,5 +10,30 @@
 <p>I was born in Indianapolis. I have a dog.</p>
 <!--hi a-->
 
+<h2>A Class Schedule</h2>
+<ol>
+ <em><li>Art</li></em>
+  <b><li>Science</li></b>
+    <li>Spanish</li>
+    <li>History</li>
+    <li>Math</li>
+    <li>Music</li><li>English</li>
+    <li>Advisory</li>
+</ol>
+
+    <h2>Favorite color list</h2>
+<ol>
+    <li>Purple</li>
+    <li>Cyan</li>
+    <li>Blue</li>
+    <li>Red</li>
+</ol>
+
+
+<a href="https://www.youtube.com">youtube</a>
+
+<cite>"The best way to keep a prisoner from escaping is to make sure he never knows he's in prison".</cite>
+
+
 </body>
   </html>
