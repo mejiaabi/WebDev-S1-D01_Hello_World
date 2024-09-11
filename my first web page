@@ -35,5 +35,18 @@
 <cite>"The best way to keep a prisoner from escaping is to make sure he never knows he's in prison".</cite>
 
 
+<video width="320" height="240" controls>
+    <link>https://www.youtube.com/watch?v=evQsOFQju08</link>
+</video>
+
+<button>a button</button><br>
+
+<input type="radio"><br>
+
+<input type="checkbox"><br>
+<input type="checkbox"><br>
+<input type="checkbox"><br>
+
+
 </body>
   </html>
