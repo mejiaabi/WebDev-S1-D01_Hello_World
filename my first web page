@@ -48,5 +48,20 @@
 <input type="checkbox"><br>
 
 
+<table>
+    <tr>
+        <th>Favorite Movies</th>
+        <th>Directors</th>
+    </tr>
+    <tr>
+        <td>The Lion King</td>
+        <td> Rob Minkoff and Roger Allers</td>
+        <td>etc...</td>
+    </tr>
+    <tr>
+        <td>Ratatouille</td>
+        <td>Brad Bird</td>
+    </tr>
+
 </body>
   </html>
