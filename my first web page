@@ -6,6 +6,56 @@
     <title>My First Page</title>
 </head>
 <body>
+
+
+<style>
+    h1{
+        background-color: cornflowerblue;
+        font-family: "Comic Sans MS";
+    }
+
+    h2 {
+        color: mediumpurple;
+        font-family: "Comic Sans MS";
+
+    }
+
+    p {
+        color: lightpink;
+        text-align: center;
+        line-height: 160%;
+        font-family: "Comic Sans MS";
+
+    }
+
+    li {
+        color: skyblue;
+        font-style: italic;
+        text-align: center;
+        font-family: "Comic Sans MS";
+    }
+
+    button {
+        color: white;
+        background-color:darkred;
+        font-family: "Times New Roman";
+
+    }
+
+    th{
+        color: white;
+        background-color: mediumpurple;
+    }
+
+    tr {
+        color: white;
+        background-color: skyblue;
+    }
+    
+</style>
+
+
+
 <h1>All About Me</h1>
 <p>I was born in Indianapolis. I have a dog.</p>
 <!--hi a-->
