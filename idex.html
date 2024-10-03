@@ -1,65 +1,41 @@
-<!DOCTYPE  html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <meta charset="utf-8"/>
-    <meta name="viewport" content="width=device-width"/>
-    <title>My First Page</title>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<h1>All About Me</h1>
-<p>I was born in Indiana. I have a dog.</p>
-<!--hi a-->
 
-<h2>A Class Schedule</h2>
-<ol>
-    <i><li>Art</li></i>
-    <b><li>Science</li></b>
-    <li>Spanish</li>
-    <li>History</li>
-    <li>Math</li>
-    <li>Music</li><li>English</li>
-    <li>Advisory</li>
-</ol>
+<button id="0" onclick="putOnEnd('0')">0</button>
+<button id="1" onclick="putOnEnd('1')">1</button>
+<button id="2" onclick="putOnEnd('2')">2</button>
+<button id="3" onclick="putOnEnd('3')">3</button>
+<button id="4" onclick="putOnEnd('4')">4</button>
+<button id="5" onclick="putOnEnd('5')">5</button>
+<button id="6" onclick="putOnEnd('6')">6</button>
+<button id="7" onclick="putOnEnd('7')">7</button>
+<button id="8" onclick="putOnEnd('8')">8</button>
+<button id="9" onclick="putOnEnd('9')">9</button>
+<button id="clear" onclick="clearText()">C</button>
+<button id="+" onclick="plus()">+</button>
+<button id="=" onclick="calculate()">=</button>
 
-<h2>Favorite color list</h2>
-<ol>
-    <li>Purple</li>
-    <li>Cyan</li>
-    <li>Blue</li>
-    <li>Red</li>
-</ol>
+<br><br>
 
 
-<a href="https://www.youtube.com">youtube</a><br>
+<label>
+    <input id="number" type="text"  value = "" readonly>
+</label>
 
-<cite>"The best way to keep a prisoner from escaping is to make sure he never knows he's in prison".</cite><br>
+<br>
+<br>
 
-
-<video width="320" height="240" controls>
-    <link>https://www.youtube.com/watch?v=evQsOFQju08</link>
-</video>
-
-<button>a button</button><br>
-
-<input type="radio"><br>
-
-<input type="checkbox"><br>
-<input type="checkbox"><br>
-<input type="checkbox"><br>
+<label>
+    <input id="calc" type="text"  value = "" readonly>
+</label>
 
 
-<table>
-    <tr>
-        <th>Favorite Movies</th>
-        <th>Directors</th>
-    </tr>
-    <tr>
-        <td>The Lion King</td>
-        <td> Rob Minkoff and Roger Allers</td>
-    </tr>
-    <tr>
-        <td>Ratatouille</td>
-        <td>Brad Bird</td>
-    </tr>
-
+<script src="scripts.js"></script>
 </body>
 </html>
